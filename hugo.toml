@@ -1,0 +1,14 @@
+baseurl = "/"
+title = "Maxi's Blog"
+theme = "papermod"
+
+[Params]
+    mainSections = ["post"]
+    intro = true
+    headline = "My headline"
+    description = "My description"
+    github = "https://github.com/MaxiG-ai"
+    dateFormat = "Mon, Jan 2, 2006"
+
+[Permalinks]
+    post = "/:filename/"
