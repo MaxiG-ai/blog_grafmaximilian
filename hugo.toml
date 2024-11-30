@@ -3,12 +3,37 @@ title = "Maxi's Blog"
 theme = "papermod"
 
 [Params]
+    title = "Maxi's Blog"
     mainSections = ["post"]
     intro = true
     headline = "My headline"
     description = "My description"
     github = "https://github.com/MaxiG-ai"
     dateFormat = "Mon, Jan 2, 2006"
+    keywords = ["blog", "dev", "triathlon"]
+
+    ShowReadingTime = true
+    ShowShareButtons = true
+    ShowPostNavLinks = true
+    ShowBreadCrumbs = true
+    ShowCodeCopyButtons = false
+    ShowWordCount = true
+    ShowRssButtonInSectionTermList = true
+    UseHugoToc = true
+    disableSpecial1stPost = false
+    disableScrollToTop = false
+    comments = false
+    hidemeta = false
+    hideSummary = false
+    showtoc = false
+    tocopen = false
+
+[socialIcons]
+    name = "github"
+    url = "https://maxig-ai.github.io"
+    
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/maximilian-graf-8a8583197/"
 
 [Permalinks]
     post = "/:filename/"
