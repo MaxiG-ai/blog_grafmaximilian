@@ -31,9 +31,6 @@ theme = "papermod"
 [socialIcons]
     name = "github"
     url = "https://maxig-ai.github.io"
-    
-    name = "linkedin"
-    url = "https://www.linkedin.com/in/maximilian-graf-8a8583197/"
 
 [Permalinks]
     post = "/:filename/"
