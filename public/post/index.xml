@@ -6,13 +6,14 @@
     <description>Recent content in Posts on Maxi&#39;s Blog</description>
     <generator>Hugo -- 0.136.5</generator>
     <language>en</language>
+    <lastBuildDate>Sun, 28 Sep 2014 02:13:50 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>Creating a New Theme</title>
       <link>//localhost:1313/creating-a-new-theme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       <guid>//localhost:1313/creating-a-new-theme/</guid>
-      <description></description>
+      <description>Description of my awesome project.</description>
     </item>
   </channel>
 </rss>
