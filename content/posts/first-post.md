@@ -5,6 +5,6 @@ description: The start of my blogging journey
 title: Welcome to my Blog!
 ---
 
-## Introduction
+Hey there, welcome to my first Blog post! 
 
-Hey there, welcome to my first Blog post! I will share toughts on tech, innovations and endurance sports here 👌s
+I will share toughts on tech, innovations and endurance sports here 👌

@@ -1,8 +1,8 @@
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-baseURL: "blog.grafmaximilian.de"
+baseURL: "/"
 title: Maxi's Blog
-copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
+copyright: "© Maximilian Graf"
 paginate: 5
 theme: [papermod]
 
@@ -32,15 +32,18 @@ languages:
         - name: About
           url: about
           weight: 10
-        - name: Archive
-          url: archives
-          weight: 5
-        - name: Search
-          url: search/
+        - name: Blog
+          url: posts
           weight: 10
+        # - name: Search
+        #   url: search/
+        #   weight: 10
         - name: Tags
           url: tags/
           weight: 10
+        # - name: Archive
+        #   url: archives
+        #   weight: 10
 
     # custom params for each language should be under [langcode].parms - hugo v0.120.0
     params:
@@ -74,7 +77,7 @@ params:
 
   defaultTheme: auto
   # disableThemeToggle: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowReadingTime: true
   # disableSpecial1stPost: true
   displayFullLangName: true
@@ -116,12 +119,18 @@ params:
     - name: github
       title: Find me on GitHub
       url: "https://github.com/MaxiG-ai"
+    - name: Strava
+      title: follow my workouts on Strava
+      url: "https://www.strava.com/athletes/11965636"
+    - name: LinkedIn
+      title: look at what i pretend to have achieved
+      url: "https://www.linkedin.com/in/maximilian-graf-8a8583197/"
     - name: KoFi
       title: Buy me a Ko-Fi :)
-      url: "https://ko-fi.com/adityatelange"
+      url: "https://ko-fi.com/maximiliangraf"
 
   editPost:
-    URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+    URL: "https://github.com/MaxiG-ai/blog_grafmaximilian/tree/main/content/posts"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
