@@ -99,6 +99,10 @@ params:
     # imageWidth: 120
     # imageHeight: 120
     buttons:
+      - name: About
+        url: about
+      - name: Blog
+        url: posts
       - name: Archives
         url: archives
       - name: Tags
