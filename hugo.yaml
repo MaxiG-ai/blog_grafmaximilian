@@ -55,9 +55,9 @@ languages:
         # imageWidth: 120
         # imageHeight: 120
         subtitle: "👨‍💻 Developer | 🚀 Innovator | 🏊‍♂️🚴🏃 Triathlete"
-        buttons:
-          - name: Blog
-            url: posts
+        # buttons:
+        #   - name: Blog
+        #     url: posts
 
 outputs:
   home:
