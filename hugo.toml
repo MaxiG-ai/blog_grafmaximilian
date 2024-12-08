@@ -28,9 +28,28 @@ theme = "papermod"
     showtoc = false
     tocopen = false
 
-[socialIcons]
-    name = "github"
-    url = "https://maxig-ai.github.io"
+[homeInfoParams]
+    Title = "Maxi's Blog"
+    Content = """
+        👋 Welcome to my homepage on the internet!
+
+        - Feel free to connect with me on any of the social platforms below.
+        
+        - Go to the [about](/about/) page to learn more about me.
+
+        - Check out the [blog](/post/) for my latest posts.
+        """
+        
+[[socialIcons]]
+name = "github"
+title = "Check out my GitHub"
+url = "https://github.com/adityatelange/hugo-PaperMod"
+
+[[socialIcons]]
+name = "Discord"
+title = "Join discord community"
+url = "https://discord.gg/ahpmTvhVmp"
+
 
 [Permalinks]
     post = "/:filename/"
