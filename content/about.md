@@ -19,8 +19,11 @@ I've been into endurance sports (triathlon-related) since the very beginning of 
 
 ## Running events
 
-2018:
-- Halbmarathon Würzburg
+2024:
+- Halbmarathon Hamburg (1:44:02)
+
+2019:
+- Halbmarathon Würzburg (2:04:57)
 
 ## Cycling races
 
