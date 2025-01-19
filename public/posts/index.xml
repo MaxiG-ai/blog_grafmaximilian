@@ -12,8 +12,15 @@
     <generator>Hugo -- 0.136.5</generator>
     <language>en</language>
     <copyright>Maximilian Graf</copyright>
-    <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>When is there too much on your plate?</title>
+      <link>//localhost:1313/posts/essentialism/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/essentialism/</guid>
+      <description>Year-ending reflections about essentialism</description>
+    </item>
     <item>
       <title>Welcome to my Blog!</title>
       <link>//localhost:1313/posts/first-post/</link>
